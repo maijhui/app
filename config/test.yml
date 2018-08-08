@@ -1,0 +1,11 @@
+URL: http://testyogabook.hq-xl.com/admin/index/login
+excel_path: C:\\Users\\Administrator\\PycharmProjects\\app_aideyujia\\data\\test.xlsx
+yaml_path: C:\\Users\\Administrator\\PycharmProjects\\app_aideyujia\\config\\test.yml
+log_path: C:\\Users\\Administrator\\PycharmProjects\\app_aideyujia\\report\\test.log
+HTML_report_path: C:\\Users\\Administrator\\Desktop\\report.html
+log:
+    log_path: C:\\Users\\Administrator\\Desktop\\test.log
+    backup: 5
+    console_level: WARNING
+    file_level: DEBUG
+    pattern: '%(asctime)s - %(name)s - %(levelname)s - %(message)s'
